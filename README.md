@@ -6,12 +6,19 @@ Built with scalability, clean architecture, and user-centric design in mind, Wel
 🚀 Key Highlights
 
 ● Secure Authentication (Login, Registration, Forgot Password)
+
 ● Continue with Google (OAuth)
+
 ● Activity & Workout Tracking
+
 ● Real-time User Dashboard
+
 ● Comprehensive Admin Control Panel
+
 ● Subscription & Active Plan Monitoring
+
 ● Platform Analytics (Users, Activities, Engagement)
+
 ●Clean, responsive UI/UX
 
 🧠 Problem Statement
@@ -20,35 +27,52 @@ Many fitness platforms focus only on activity logging but lack centralized monit
 
 💡 Solution
 
-● WellNest delivers a unified wellness ecosystem that provides:
+ WellNest delivers a unified wellness ecosystem that provides:
+ 
 ● Seamless onboarding and secure authentication
+
 ● Clear visibility into user fitness progress
+
 ● Centralized admin monitoring and control
 
 👤 User Capabilities
 
 ● Register and securely log in
+
 ● Continue with Google
+
 ● Reset password using Forgot Password
+
 ● Log daily workouts and activities
+
 ● View personal fitness dashboard
+
 ● Track subscription and active plans
+
 ● Monitor progress over time
 
 🧑‍🏫 Trainer Capabilities
 
 ● View assigned users
+
 ● Monitor user workout activity
+
 ● Track user progress and engagement
+
 ● Provide guidance or plan oversight
+
 ● Support user fitness consistency
 
 👨‍💼 Admin Capabilities
 
 ● View and manage registered users
+
 ● Monitor overall platform activity
+
 ● Track subscriptions and active plans
+
 ● Manage or remove accounts
+
 ● Maintain platform integrity and security
 
 🎯 Impact
